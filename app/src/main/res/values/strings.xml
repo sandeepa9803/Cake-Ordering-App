@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Cake Mart</string>
+    <string name="txt_title">Cake Mart</string>
+    <string name="image_cake">Cake Image</string>
+    <string name="txt_note">To make your sweet moments more delicious</string>
+    <string name="btn_singIn">Sign In</string>
+    <string name="btn_signUp">Sign Up</string>
+    <string name="bottom_navi_bar">Navigation bar</string>
+    <string name="btn_Home">Home</string>
+    <string name="btn_Menu">Menu</string>
+    <string name="btn_Cart">Cart</string>
+    <string name="btn_Delivery">Delivery</string>
+    <string name="btn_UserProfile">User Profile</string>
+</resources>
